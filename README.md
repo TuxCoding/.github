@@ -2,7 +2,7 @@
 
 ## Description
 
-Template project for GitHub related files
+Template project for GitHub related files. They will be used if not overriden by in individual repositories.
 
 More details at [GitHub doc](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
