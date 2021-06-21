@@ -4,6 +4,8 @@
 
 Template project for GitHub related files
 
+More details at [GitHub doc](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+
 ## Structure
 
 * workflows - collection of automated CI jobs
